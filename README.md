@@ -62,4 +62,4 @@ An online academy management system, designed to handle courses, instructors, an
 
 - **Email:** amanrajkumar124@gmail.com  
 - **LinkedIn:** [Aman Raj](https://www.linkedin.com/in/amanrajofficial/)  
-- **GitHub:** [@yourusername](https://github.com/AmanRaj073)  
+- **GitHub:** [@AmanRaj073](https://github.com/AmanRaj073)  
