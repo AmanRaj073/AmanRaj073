@@ -7,7 +7,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <div style="flex: 1; padding-right: 10px;">
     <p>
-      I’m a passionate developer with over a year of experience in full-stack development and a keen interest in blockchain technologies. I love creating scalable web applications and exploring the exciting world of Web3. When I'm not coding, you'll find me learning something new or diving into crypto activities. 🌐
+      I’m a passionate developer with over 2+ year of experience in full-stack development and a keen interest in blockchain technologies. I love creating scalable web applications and exploring the exciting world of Web3. When I'm not coding, you'll find me learning something new or diving into crypto activities. 🌐
     </p>
   </div>
   <div style="flex: 1; padding-left: 10px;">
@@ -34,6 +34,13 @@ JavaScript, TypeScript, Solidity, HTML, CSS, SQL, C++, C
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Remix IDE](https://img.shields.io/badge/Remix%20IDE-000000?style=for-the-badge&logo=ethereum&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white) 
 
 ## **📂 Featured Projects**
+
+### 🍕 **[Ai Text to Image](https://github.com/AmanRaj073/Ai-Text-to-Images)**  
+Transform text prompts into stunning AI-generated images with a credit-based system. Built with the MERN stack.
+
+**Live Demo:** [https://ai-text-to-images-frontend.vercel.app/]([https://your-app-url.com](https://ai-text-to-images-frontend.vercel.app/))
+
+---
 
 ### 🍕 **[Pizza Order](https://github.com/AmanRaj073/E_pizza)**  
 A web application for ordering pizzas online, built with React.js and Node.js, featuring real-time order updates and user authentication.
