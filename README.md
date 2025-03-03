@@ -38,7 +38,7 @@ JavaScript, TypeScript, Solidity, HTML, CSS, SQL, C++, C
 ### 🍕 **[Ai Text to Image](https://github.com/AmanRaj073/Ai-Text-to-Images)**  
 Transform text prompts into stunning AI-generated images with a credit-based system. Built with the MERN stack.
 
-**Live Demo:** [https://ai-text-to-images-frontend.vercel.app/]([https://your-app-url.com](https://ai-text-to-images-frontend.vercel.app/))
+**Live Demo:** [Click Here](https://ai-text-to-images-frontend.vercel.app/)
 
 ---
 
